@@ -1,0 +1,22 @@
+Track operating systems here.
+
+Goal: First do os-kuleuvan and then move onto MIT - implementation of operating systems.
+
+
+Logs:
+
+Date:09/02/2024:
+
+----> completed intro c and then did some exercises.
+
+	Next:
+	1). Should start intro to cpu 
+
+
+Date:13.02.2024:
+
+------> 	
+	1). Started studding ALU chapter, stopped near how instructions are executed like how 
+		loops are executed.
+
+	next: should continue with that.
