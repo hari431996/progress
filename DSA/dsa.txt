@@ -1,0 +1,50 @@
+DSA and leetcode progress here.
+
+-----------------------------------------------------------------------------
+
+Goal: Should focus on DSA course in  coursera first and then move onto leetcode. 
+
+Time :
+	weekday - Morning - 1hour, Night - 2 hours : weekend : will update.
+
+-----------------------------------------------------------------------------
+
+
+
+Logs:
+
+Date - unknown :
+	---> started the course and left near a exercise.
+
+
+-----------------------------------------------------------------------------
+
+	
+
+Date - 12.02.2024 :
+		----> setup java environment.
+		----> completed first 2 programs, randomWord still left need to learn resolver 
+			algorithm and solve it.
+		
+		Next:
+			1). Reservoir question.
+			2). Start union find. 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Date - 13.02.2024:
+		----> nothing took rest. 
+
+-----------------------------------------------------------------------------
+Date - 14.02.2024:
+	-----> did not do anything , since I did not study cn today in the morning , spent time for this .
+
+		should restart with next from 12.02.2024
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
