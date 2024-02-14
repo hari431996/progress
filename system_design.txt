@@ -1,0 +1,15 @@
+This is to track system design learning.
+
+Goal : 1). Read Designing data intensive applications book (every 15 mins , in the morning)
+	and once os is done lets see.
+	
+	2). Do mit - distributed systems .
+
+Logs:
+
+Date : 13.02.2024
+
+	-----> read about realiability and general concepts about components in a system
+		and about faults and failures . stopped near hardware failures.
+	
+	-----> next : software faults(page - 8).

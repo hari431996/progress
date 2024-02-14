@@ -1,0 +1,48 @@
+Date - 12/02/24
+
+Goal - Enable ssl connectivity in bosr.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Steps:
+
+1). created a custom resourse using open-cert manager which creates the cert suits as a secret
+	and then volume mounted to be used in the bosr server.
+
+2). bosr pod does not allow direct traffic from external host 
+	so create a new route with passthorugh option.
+
+This is done on net6. 
+
+3). Lets do connection between bosr and databases. 
+
+once the testing is done for this also then we can go and do this .
+
+1). make a PR with all the changes on bosr and push it , new route , custom resource yaml files.
+
+2). Then deploy the changes to muc-9 and muc-12
+
+3). Then create a expiration alert to restart the bosr pod. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Logs:
+
+Date - 12/02/2024.
+
+----> working on enabling the ssl between bosr server and databases.
+	1).  reading documentation of couchbase (https://docs.couchbase.com/go-sdk/current/howtos/managing-connections.html) , 
+		mongodb ssl (https://www.mongodb.com/docs/manual/tutorial/configure-ssl-clients/)
+	
+	2). checking the bosr code on how the reqeusts are applied on couchbase (go-sdk is used here) and mongo (mongosh client is used) side. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Date - 13/04/2024
+		
+-----> started reading the application code and saw how the connection request flows from server to couchbase
+	1). will see how the  connection string is generated and check what is the root ca used in couchbase cluster and check if we have to give this root ca to gocb client or mongosh client.
+	2). check if the root ca is same as amadeus root ca??
+
+
+	remark- could not do this , felt very lazy as i woke up early and went to office , need to change this strategy of waking up.  Also , some meetings disturbed the flow of working .
