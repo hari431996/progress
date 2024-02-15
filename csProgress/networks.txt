@@ -1,8 +1,8 @@
-# Use this txt file to log the progress in computer networks.
+d# Use this txt file to log the progress in computer networks.
 
 Goals : Do CN - Top down and Stanford Cs-143 parallely. ( first we do CN book and then we do Stanford cs-143- ppt, videos and labs).
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 Logs:
 
@@ -10,3 +10,12 @@ Day:12/02/2024.
 
 1). Finished studying the whole chapter , completed all the knowledge check questions. 
 	---> next : interactive exercises, exercises in the back and then Wireshark .
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Date:14.02.2024.
+
+1). Just did 2 interactive questions on packet switching and circuit switching. Not clear on circuit switching and packet switching(especially probability).
+
+----------------------------------------------------------------

@@ -3,6 +3,8 @@ Track operating systems here.
 Goal: First do os-kuleuvan and then move onto MIT - implementation of operating systems.
 
 
+------------------------------------------------------------------------------------------------
+
 Logs:
 
 Date:09/02/2024:
@@ -13,6 +15,8 @@ Date:09/02/2024:
 	1). Should start intro to cpu 
 
 
+------------------------------------------------------------------------------------------------
+
 Date:13.02.2024:
 
 ------> 	
@@ -20,3 +24,12 @@ Date:13.02.2024:
 		loops are executed.
 
 	next: should continue with that.
+
+------------------------------------------------------------------------------------------------
+
+
+Date : 15.02.2024:
+
+----->
+	1). Finished assembly instructions in c, should continue with questions on it, completed the first question.
+		should complete other questions.
