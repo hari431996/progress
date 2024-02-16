@@ -61,6 +61,14 @@ Date - 15.02.2024
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Date - 16.02.2024
+
+---------> Read the documentation and  made some progress.
+
+		1). figured how to implement, add the option to include sslVerify option in the deployment.Also looked into factory design pattern.
+		up next:
+		-----> 1). Should read about factory design pattern more in depth
+		-----> 2). do some testing to see the kind of values to use.
 
 
 
