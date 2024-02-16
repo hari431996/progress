@@ -5,6 +5,9 @@ Goal : 1). Read Designing data intensive applications book (every 15 mins , in t
 	
 	2). Do mit - distributed systems .
 
+
+------------------------------------------------------------------------------------------------
+
 Logs:
 
 Date : 13.02.2024
@@ -13,3 +16,11 @@ Date : 13.02.2024
 		and about faults and failures . stopped near hardware failures.
 	
 	-----> next : software faults(page - 8).
+
+
+------------------------------------------------------------------------------------------------
+
+
+Date: 16.02.2023
+	-----> read about load metrics and scalibity and about what to do when load increases.
+	-----> continue with the same topic.
