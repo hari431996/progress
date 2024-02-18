@@ -71,4 +71,13 @@ Date - 16.02.2024
 		-----> 2). do some testing to see the kind of values to use.
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Date - 18.02.2024
+	
+------------> 1). understood factory pattern clearly and how its implemented in bosr.
 
+		up next:
+		1). do some debugging in bosr with couchbase and mongo examples and see how the 
+			connection strings are generated . based on that see the modifications.
+		2). finally upload all the changes and make a pr.
+		3). Then deploy bosr in muc-9 and muc-12 .

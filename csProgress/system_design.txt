@@ -24,3 +24,11 @@ Date : 13.02.2024
 Date: 16.02.2023
 	-----> read about load metrics and scalibity and about what to do when load increases.
 	-----> continue with the same topic.
+
+
+
+------------------------------------------------------------------------------------------------
+Date: 18.02.2024
+	-----> started reading about data models. read about relational model and document model
+	next: page-34
+		should continue with the models .
