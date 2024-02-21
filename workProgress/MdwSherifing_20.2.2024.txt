@@ -1,0 +1,6 @@
+This week dont do any learning in the morning complete the ptrs.
+
+1). There are two ptrs its all about updating the acn and redis exporter packages and base images 
+	thats all.
+
+2). Try to get all the indirect libraries and then update them individually.
