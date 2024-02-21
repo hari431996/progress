@@ -32,3 +32,25 @@ Date: 18.02.2024
 	-----> started reading about data models. read about relational model and document model
 	next: page-34
 		should continue with the models .
+
+------------------------------------------------------------------------------------------------
+
+Date: 19.02.2024
+	-----> read about the differences in relational and document model and their respective
+		pros and cons.
+	up next:
+		advantages on document model vs relational model.
+
+------------------------------------------------------------------------------------------------
+
+DATE: 20.02.2024
+	-----> Did nothing was busy with Mdw sheriffing.
+
+------------------------------------------------------------------------------------------------
+
+Date:21.02.2024.
+
+	----> read about the advantage of data locality in NoSQL Databases.
+	----> Up next:
+		Graph based databases and how they can handle many to many relationship data
+		model.

@@ -81,3 +81,29 @@ Date - 18.02.2024
 			connection strings are generated . based on that see the modifications.
 		2). finally upload all the changes and make a pr.
 		3). Then deploy bosr in muc-9 and muc-12 .
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Date - 19.02.2024
+
+-----------> 1). could not do much work just discussed with akhilesh on mdw sheriffing and also
+		BOSR.
+		UP NEXT:
+			1). should update the sslVerify option in bosr for both the ping , apply 
+				and other funciton.
+			2). then make a pr with all the changes and then deploy with some print 
+				statements with some test cases.
+			3). discussing with qying on connecting to servers on azure.
+			4). then finally deploy this will be done later on.
+			5). Also add documentation on what you understand in bosr, with microdetails
+				on how factory method is used and the flow .
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\
+Date - 20.02.2024
+
+----------> 1). could not work on anything busy with MDW sheriffing activity.
+	    up next:
+		1). Make a PR with all the changes.
+		2). Then think about deployment
+		3). Later on also take care about auto restart a pod.
+
+
